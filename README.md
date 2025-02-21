@@ -1,8 +1,7 @@
-### Olá! Eu sou o Ricardo Veríssimo
+### Olá! Eu sou o Ricardo Veríssimo ###
 
 - 🌱 Estudando java na universidade ...
-- 📫 Contate-me no email: ricardoverissimo1000@gmail.com
-- 😄 Pronouns: ele/dele
+- 📫 Contate-me no email: contatoricardoveri@gmail.com
 
 <div>
   <a href="https://github.com/ricardoveri">
